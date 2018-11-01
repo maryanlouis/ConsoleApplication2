@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+ConsoleApplication2.obj : warning LNK4248: unresolved typeref token (01000017) for 'GLFWwindow'; image may not run
+ConsoleApplication2.obj : warning LNK4248: unresolved typeref token (0100001B) for 'GLFWmonitor'; image may not run
+glad.obj : warning LNK4248: unresolved typeref token (01000014) for '__GLsync'; image may not run
+  ConsoleApplication2.vcxproj -> E:\رابعة حاسبات\Computer Graphics\labs\ConsoleApplication2\Release\ConsoleApplication2.exe

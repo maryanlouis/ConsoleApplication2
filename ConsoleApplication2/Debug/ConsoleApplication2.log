@@ -1,0 +1,62 @@
+﻿  ConsoleApplication2.cpp
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C2065: 'GLFWwindow': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C2062: type 'int' unexpected
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2065: 'GLFWwindow': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2182: 'processInput': illegal use of type 'void'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): error C3861: 'glfwInit': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(19): error C2065: 'GLFW_CONTEXT_VERSION_MAJOR': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(19): error C3861: 'glfwWindowHint': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(20): error C2065: 'GLFW_CONTEXT_VERSION_MINOR': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(20): error C3861: 'glfwWindowHint': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): error C2065: 'GLFW_OPENGL_PROFILE': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): error C2065: 'GLFW_OPENGL_CORE_PROFILE': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(21): error C3861: 'glfwWindowHint': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): error C2065: 'GLFWwindow': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): error C2065: 'NULL': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): error C3861: 'glfwCreateWindow': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): error C2065: 'NULL': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(32): error C2039: 'cout': is not a member of 'std'
+  e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(32): error C2065: 'cout': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(32): error C2039: 'endl': is not a member of 'std'
+  e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(32): error C2065: 'endl': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(33): error C3861: 'glfwTerminate': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): error C3861: 'glfwMakeContextCurrent': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): error C2065: 'framebuffer_size_callback': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): error C3861: 'glfwSetFramebufferSizeCallback': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2065: 'GLADloadproc': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2146: syntax error: missing ')' before identifier 'glfwGetProcAddress'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C3861: 'gladLoadGLLoader': identifier not found
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2059: syntax error: ')'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2065: 'glfwGetProcAddress': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2039: 'cout': is not a member of 'std'
+  e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2065: 'cout': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2039: 'endl': is not a member of 'std'
+  e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2065: 'endl': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2059: syntax error: ';'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2059: syntax error: 'while'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2143: syntax error: missing ';' before '{'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2447: '{': missing function header (old-style formal list?)
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(68): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(69): error C2059: syntax error: 'return'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(70): error C2059: syntax error: '}'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(70): error C2143: syntax error: missing ';' before '}'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(75): error C2143: syntax error: missing ';' before '{'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(75): error C2447: '{': missing function header (old-style formal list?)
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(82): error C2065: 'GLFWwindow': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(82): error C2065: 'window': undeclared identifier
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(82): error C2062: type 'int' unexpected
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(83): error C2143: syntax error: missing ';' before '{'
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\consoleapplication2.cpp(83): error C2447: '{': missing function header (old-style formal list?)
+  glad.cpp
+e:\رابعة حاسبات\computer graphics\labs\consoleapplication2\consoleapplication2\glad.cpp(1240): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
